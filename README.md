@@ -1,8 +1,5 @@
 <p align="center"><img src="https://s3-us-west-2.amazonaws.com/devcodepro/media/courses/icon_curso_poo_php.png" width="197px" height="64px"></p>
 
-## Link publico del proyecto (URL)
-http://infocentropadrechacinvdlp.esy.es/
-
 ## Requerimientos
 
 - PHP >=5.6.4
