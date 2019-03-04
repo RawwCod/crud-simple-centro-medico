@@ -3,9 +3,9 @@
 function dbConnect() {
     $conn = null;
     $host = 'localhost';
-    $db   = 'colegio_gabi';
     $user = 'root';
     $pwd  = '';
+    $db   = 'crud';
         try {
             $conn = new PDO('mysql:host=' . $host . ';dbname=' . $db, $user, $pwd);
         } catch (PDOException $e) {
