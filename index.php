@@ -94,11 +94,11 @@ include "./function/header.php";
         <!-- Text input-->
 
         <div class="form-group">
-            <label class="col-md-4 control-label">Movil #</label>
+            <label class="col-md-4 control-label">Telefono #</label>
             <div class="col-md-4 inputGroupContainer">
                 <div class="input-group">
                     <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-                    <input onkeypress="solonum()" onpaste="alert('No puedes pegar');return false" maxlength="11" required="" name="movil" placeholder="(0416) 256-1212" class="form-control" type="text">
+                    <input onkeypress="solonum()" onpaste="alert('No puedes pegar');return false" maxlength="11" required="" name="movil" placeholder="(+51) 956823154" class="form-control" type="text">
                 </div>
             </div>
         </div>
