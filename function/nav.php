@@ -8,7 +8,7 @@
             <a class="nav-link" href="listar.php">Listar</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#" data-toggle="modal" data-target=".bs-example-modal-sm">Doctora</a>
+            <a class="nav-link" href="#" data-toggle="modal" data-target=".bs-example-modal-sm">Doctor</a>
         </li>
     </ul>
 </nav>
@@ -19,8 +19,8 @@
         <div class="modal-content">
             <div>
                 <div class="thumbnail">
-                    <img src="img/doctora.jpg">
-                    <div class="caption"><p class="text-center text-uppercase">Doctora Especialista <br><spam><b>Gabriela Gámez</b></spam></p></div>
+                    <img src="img/doctor.jpg">
+                    <div class="caption"><p class="text-center text-uppercase">Doctor Corazon <br><spam><b>Raul Huraccahua</b></spam></p></div>
                 </div>
             </div>
         </div>
