@@ -74,7 +74,7 @@
         </ul>
 
         <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
-          <input type="search" class="form-control form-control-dark text-bg-primary" placeholder="Search..." aria-label="Search">
+          <input type="search" class="form-control form-control-dark text-bg-white" placeholder="Search..." aria-label="Search">
 
         </form>
 
