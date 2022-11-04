@@ -12,19 +12,19 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <img style="width: 100%; height: 250px" src="img/banner1.jpg" alt="...">
+                <img style="width: 100%; height: 250px" src="img/image1.jpg" alt="...">
                 <div class="carousel-caption">
                     <h4>Al cuidado de su salud</h4>
                 </div>
             </div>
             <div class="item">
-                <img style="width: 100%; height: 250px" src="img/banner2.jpg" alt="...">
+                <img style="width: 100%; height: 250px" src="img/image2.jpg" alt="...">
                 <div class="carousel-caption">
                     <h4>Los mejores en especialidades.</h4>
                 </div>
             </div>
             <div class="item">
-                <img style="width: 100%; height: 250px" src="img/banner3.jpg" alt="...">
+                <img style="width: 100%; height: 250px" src="img/image3.jpg" alt="...">
                 <div class="carousel-caption">
                     <h4>Experiencia y calidez humana</h4>
                 </div>
