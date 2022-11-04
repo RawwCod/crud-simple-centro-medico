@@ -64,7 +64,7 @@
         </ul>
         <li><a href="#">Operaciones</a>
               <ul class="submenu">
-               <li> <a href="#">Registrar CliSer</a></li>
+               <li> <a href="#"></a></li>
 
         </ul>
 
@@ -74,7 +74,7 @@
         </ul>
 
         <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
-          <input type="search" class="form-control form-control-primary text-bg-primary" placeholder="Search..." aria-label="Search">
+          <input type="search" class="form-control form-control-dark text-bg-primary" placeholder="Search..." aria-label="Search">
 
         </form>
 
@@ -84,7 +84,7 @@
 
           <button type="button" class="btn btn-outline-light me-2">Login</button>
 
-          <button type="button" class="btn btn-warning">Cerrar Ses</button>
+          <button type="button" class="btn btn-warning">Cerrar Sesion</button>
 
         </div>
 

@@ -53,7 +53,7 @@ header{
 	width: 120%;
 	visibility: hidden;
 	opacity: 0;
-	transition: opacity 1.5s;
+	
 }
 
 .submenu li a{
